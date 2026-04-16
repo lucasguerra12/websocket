@@ -5,22 +5,6 @@
 
 ---
 
-## 📋 Índice
-
-- [Sobre o Projeto](#sobre-o-projeto)
-- [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Arquitetura](#arquitetura)
-- [Pré-requisitos](#pré-requisitos)
-- [Instalação e Execução](#instalação-e-execução)
-- [Estrutura de Pastas](#estrutura-de-pastas)
-- [Como Funciona](#como-funciona)
-- [Protocolo de Mensagens](#protocolo-de-mensagens)
-- [Comparativo com a Versão Original](#comparativo-com-a-versão-original)
-- [Funcionalidades](#funcionalidades)
-- [Próximos Passos](#próximos-passos)
-
----
-
 ## Sobre o Projeto
 
 O objetivo é demonstrar na prática o funcionamento do protocolo **WebSocket**, que permite comunicação bidirecional e persistente entre cliente e servidor, sem a necessidade de recarregar a página ou realizar polling HTTP.
